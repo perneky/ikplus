@@ -23,6 +23,3 @@ def draw
     enable_alpha_blend()
 
     DrawStage()
-
-options debugger
-require daslib/debug
