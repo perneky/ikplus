@@ -14,3 +14,6 @@ Demo mode is also implemented. Don't touch the buttons for 20 seconds in the men
 
 ## How can it be run?
 The game requires the [dasBox](https://github.com/imp5imp5/dasbox) sandbox. To make this repository self fontained, the **dasbox.exe** from [version 0.1.32](https://github.com/imp5imp5/dasbox/releases/tag/dasbox_portable_0_1_32) is included in this repository, so the game can be just started using **start.bat**.
+
+## Can I see it quickly?
+Sure. Head over to https://1drv.ms/v/s!AjdhLxGfpof0lLUE4tPoERbXpuCleQ?e=SyEDJm for a sneak peek.
